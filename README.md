@@ -4,6 +4,11 @@
 Docker environment for [OpenKE-pytorch](https://github.com/thunlp/OpenKE)
 
 
+## Requirements
+- [Docker](https://docs.docker.com/) >= 19.03
+- [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker)
+
+
 ## Build
 Build a docker image from a Dockerfile and then compile C++ files in OpenKE
 
